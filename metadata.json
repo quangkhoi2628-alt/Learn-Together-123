@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Learn Together",
+  "description": "Một nền tảng giáo dục hiện đại dành cho học sinh khối 9. Cung cấp giải bài tập, bài luyện tập, gia sư AI và cộng đồng hỏi đáp để việc học trở nên thú vị và mang tính hợp tác hơn.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
